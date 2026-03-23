@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 # 🌐 Guía Visual de Dispositivos de Red para Developers
 
@@ -36,7 +36,6 @@ Una guía estructurada para entender **Router, Switch y Hub**, su funcionamiento
 ### 🔵 Switch
 - **Acción:** Mira la dirección MAC del dispositivo destino.  
 - **Decisión:** Envía el paquete solo al puerto específico de ese dispositivo.
->>>>>>> c8f84ab (Actividad: Fundamentos de Redes)
 
 ### 🔴 Hub (Obsoleto)
 - ❌ **Problema:** Envía todas las señales a todos los dispositivos.  
